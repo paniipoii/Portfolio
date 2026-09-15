@@ -104,11 +104,11 @@ export default function Home() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Panida_Onprasert_QA_Automation_CV.pdf"
               target="_blank"
               className="rounded-xl border border-zinc-700 px-6 py-3 font-medium transition hover:border-zinc-500 hover:bg-zinc-900"
             >
-              Resume
+              My CV
             </a>
           </div>
         </div>
