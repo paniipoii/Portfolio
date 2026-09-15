@@ -27,14 +27,14 @@ const projects = [
     description:
       "Web automation framework using Robot Framework and Selenium with reusable keywords and CI integration.",
     tech: ["Robot Framework", "Selenium", "Jenkins"],
-    github: "https://github.com/yourusername/robot-framework",
+    github: "https://github.com/paniipoii/QA-automation-test",
   },
   {
     title: "API Automation Testing",
     description:
       "Automated API regression tests covering authentication, validation, negative scenarios and response schema.",
     tech: ["Postman", "REST API", "JavaScript"],
-    github: "https://github.com/yourusername/api-testing",
+    github: "https://github.com/paniipoii/QA-automation-test",
   },
 ];
 
